@@ -21,7 +21,8 @@
   
   <li>🥂🏆 I'm passionate about digital strategy, emerging technologies, products and platforms development, contributing to Open Source, speaking, documentation and program management while making the world a better place.</li>
   
-  <li>🎉🌱 Fun Fact : I'm an Open Source Technology preacher, love animals, tourism, music and art. I also love and play ⚽, a Red Devil at heart❤️. 
+  <li>🎉🌱 Fun Fact : I'm an Open Source Technology preacher, love animals, tourism, music and art. 
+    I also love and play ⚽, a Red Devil at heart❤️. 
 </ul>
 
 <!-- About me section: END -->
