@@ -15,7 +15,7 @@
 
 <ul>
   
-  <li>👨‍💻🗓 A Multidisciplinary  Project Manager, Product Manager, Business Analyst, Data Analyst and Scrum Master. I work endlessly developing and improving products, user rentention, organisational objectives and goals for different brands and companies.</li>
+  <li>👨‍💻🗓 A Multidisciplinary  Project Manager, Product Manager, Business Analyst, Data Analyst and Scrum Master. I work endlessly developing and improving products, customer satisfaction, user rentention, achieving organisational objectives and goals for different brands and companies.</li>
   
   <li>📈🚀 I have a strong proclivity in analytical thinking, disciplined problem-solving, attention to detail, documentations, collaboration, and strong communication skills.</a>
   
