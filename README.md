@@ -19,7 +19,7 @@
   
   <li>📈🚀 I have a strong proclivity in analytical thinking, disciplined problem-solving, attention to detail, documentations, collaboration, and strong communication skills.</a>
   
-  <li>🥂🏆 I'm passionate about Technological Products and development, Contributing to Open Source, Speaking, Documentation and Program Management while making the world a better place.</li>
+  <li>🥂🏆 I'm passionate about digital strategy, emerging technologies, products and platforms development, contributing to Open Source, speaking, documentation and program management while making the world a better place.</li>
   
   <li>🎉🌱 Fun Fact : I'm an Open Source and Technology preacher, love traveling, animals, art and music. I also love and play soccer ⚽, a Red Devil at heart. ❤️
 </ul>
