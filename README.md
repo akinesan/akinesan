@@ -15,7 +15,7 @@
 
 <ul>
   
-  <li>👨‍💻🗓 A Multi-disciplanary Product | Program | Project Manager, I work endlessly improving and ticking Products, User Rentention and Organisational Objectives and goals for different brands and companies.</li>
+  <li>👨‍💻🗓 A Multi-disciplanary  Project Manager, Product Manager, Business Analyst, Data analyst and Scrum Master. I work endlessly improving and ticking Products, User Rentention and Organisational Objectives and goals for different brands and companies.</li>
   
   <li>📈🚀 I have a strong proclivity in analytical thinking, disciplined problem-solving, attention to detail, documentations, collaboration, and strong communication skills.</a>
   
