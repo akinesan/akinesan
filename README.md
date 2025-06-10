@@ -21,7 +21,7 @@
   
   <li>🥂🏆 I'm passionate about Technological Products and development, Contributing to Open Source, Speaking, Documentation and Program Management while making the world a better place.</li>
   
-  <li>🎉🌱 Fun Fact : I'm an Open Source and Technology Preacher, love traveling and Music.
+  <li>🎉🌱 Fun Fact : I'm an Open Source and Technology preacher, love traveling, animals, art and music. I also love and play soccer ⚽, a Manchester United fan at heart.
 </ul>
 
 <!-- About me section: END -->
